@@ -514,7 +514,7 @@ export default function App() {
           <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 14 }}>
             <div style={{ width: 8, height: 8, borderRadius: "50%", background: "#22d3ee", boxShadow: "0 0 8px #22d3ee" }} />
             <span style={{ fontSize: 13, fontWeight: 700, letterSpacing: 2, textTransform: "uppercase", color: "#e2e8f0" }}>Frontend Interview Prep</span>
-            <span style={{ marginLeft: "auto", fontSize: 11, color: "#475569", background: "#1e293b", padding: "3px 10px", borderRadius: 20 }}>~4 YOE · React · Next.js</span>
+            <span style={{ marginLeft: "auto", fontSize: 11, color: "#475569", background: "#1e293b", padding: "3px 10px", borderRadius: 20 }}>~4 YOE · React · Next.js (Contact: panditdeshant@gmail.com)</span>
           </div>
           <div style={{ display: "flex", gap: 2, background: "#0a0e1a", borderRadius: 10, padding: 4, width: "fit-content", border: "1px solid #1e293b" }}>
             {["roadmap", "machine"].map(t => (
